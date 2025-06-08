@@ -1,6 +1,6 @@
 [ Obed Ehoneah
-- James Nzioka
-- Biniyam Ambachew
+   James Nzioka
+ Biniyam Ambachew
  ASMAA EL OUAKIFI ]
 
 # Learn Github Collaboration
